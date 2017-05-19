@@ -1,2 +1,1 @@
-﻿hello
-chaning
+﻿This excel file is used to manage my own daily matters!
